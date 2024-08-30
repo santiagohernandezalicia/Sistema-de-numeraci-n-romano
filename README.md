@@ -27,6 +27,25 @@ El programa aplica las siguientes reglas para convertir números romanos a decim
 | Ángel   | R2 y R3         |
 
 ### Instrucciones de Ejecución
+Para ejecutar el programa, se necesita tener instalado el JRE (java runtime environment): 
+```
+$ java Main <numeros romanos>
+```
+Ejemplo:
+```
+$ java Main XXI
+```
+Salida:
+```
+El valor de XXI es: 21
+```
+Se pueden introducir varios numeros de la siguiente manera:
+```
+$ java Main XXI XXL
+El valor de XXI es: 21
+El valor de XXL es: 50
+```
+
 
 
 [Referencias 1](https://es.wikipedia.org/wiki/Numeraci%C3%B3n_romana#:~:text=La%20numeraci%C3%B3n%20romana%20es%20un,s%C3%ADmbolos%20para%20representar%20ciertos%20valores.)
