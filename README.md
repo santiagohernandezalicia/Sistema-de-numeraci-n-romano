@@ -28,11 +28,5 @@ El programa aplica las siguientes reglas para convertir números romanos a decim
 
 ### Instrucciones de Ejecución
 
-Para ejecutar el programa, sigue estos pasos:
-
-
-Instrucciones de ejecución
-
-
 
 [Referencias 1](https://es.wikipedia.org/wiki/Numeraci%C3%B3n_romana#:~:text=La%20numeraci%C3%B3n%20romana%20es%20un,s%C3%ADmbolos%20para%20representar%20ciertos%20valores.)
