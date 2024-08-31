@@ -22,6 +22,11 @@ public class numeracion {
 
         for (int i = roman.length() - 1; i >= 0; i--) {
             int contador = getValue(roman.charAt(i));
+
+            if (contador == 0) {
+                return 0;
+            }
+
             if (contador >= Valor) {
                 total += contador;
             } else {
